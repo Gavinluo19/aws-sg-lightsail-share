@@ -1,0 +1,9 @@
+private-state/
+private-downloads/
+*handoff*
+*.pem
+*.key
+*.yaml
+*.conf
+probe-result*.json
+__pycache__/
