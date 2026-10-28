@@ -1,3 +1,21 @@
+# X 串文 · 已发布存档
+
+## 已发布（稳定链接）
+
+- Article：https://x.com/gavinluo19/status/2114674868096835661
+- 1 主帖：https://x.com/gavinluo19/status/2114675668390642033
+- 2 实测：https://x.com/gavinluo19/status/2114675858304844226
+- 3 风险分：https://x.com/gavinluo19/status/2114675890508398831
+- 4 开源收束：https://x.com/gavinluo19/status/2114675930756968775
+- 实测图补发：https://x.com/gavinluo19/status/2114882145256935844
+
+正式仓：https://github.com/Gavinluo19/aws-sg-lightsail-share  
+（发稿时「方案」曾链到 ai-model-picker staging 路径，现已迁到本仓。）
+
+---
+
+# 下方为发稿前建议稿存档
+
 # X 串文建议稿
 
 每段单独发一条，顺序回复前一条。正式发布前再核对下载链接和最新测试成绩。本轮未代发。
