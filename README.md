@@ -50,3 +50,21 @@ AWS Lightsail 新加坡入口：[lightsail.aws.amazon.com](https://lightsail.aws
 | SOURCES.md | 核实过的官方价格、软件和证书资料 |
 
 原帖可用公开仓库或文件下载页分享这份包。这里没有伪造一个尚未发布的下载地址，也没有把你的原服务器作为公共服务开放。
+
+
+## 已发布链接（稳定）
+
+正式公开仓（请用这个，不要再用 ai-model-picker 下的 staging 分支路径）：
+
+- 仓库：https://github.com/Gavinluo19/aws-sg-lightsail-share
+
+X 已发内容：
+
+- Article：https://x.com/gavinluo19/status/2114674868096835661
+- Thread 主帖：https://x.com/gavinluo19/status/2114675668390642033
+- Thread 实测：https://x.com/gavinluo19/status/2114675858304844226
+- Thread 风险分说明：https://x.com/gavinluo19/status/2114675890508398831
+- Thread 开源收束：https://x.com/gavinluo19/status/2114675930756968775
+- 实测图补发：https://x.com/gavinluo19/status/2114882145256935844
+
+说明：2026-10-26 发稿时 Article / Thread 里的「方案」链接仍指向 `ai-model-picker` 的 staging 分支路径。正式仓建成后，对外请统一改用本仓库 URL。
